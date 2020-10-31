@@ -1,31 +1,224 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "Quiz1":[
+  {
+    "ID": 1,
+    "type": 5,
+    "Question": "what represents an entity in the real world that can be distinctly identified.",
+    "option 1": "Object",
+    "option 2": "Class",
+    "option 3": "Constructor",
+    "option 4": "Hardware",
+    "answer": "option 1",
+    "Explain": "An Object represents an entity in the real world that can be distinctly identified."
+  },
+  {
+    "ID": 2,
+    "type": 4,
+    "Question": "what is a construct that defines objects of the same type.",
+    "option 1": "Object",
+    "option 2": "Class",
+    "option 3": "Constructor",
+    "option 4": "Hardware",
+    "answer": "option 2",
+    "Explain": "A Class is a construct that defines objects of the same type."
+  },
+  {
+    "ID": 3,
+    "type": 3,
+    "Question": "When Creating an object, what will be invoked?",
+    "option 1": "Object",
+    "option 2": "Class",
+    "option 3": "Constructor",
+    "option 4": "Hardware",
+    "answer": "option 3",
+    "Explain": "Really?"
+  },
+  {
+    "ID": 4,
+    "type": 3,
+    "Question": "Java assigns a default value to a date member of a class if the data is not initialized",
+    "option 1": "TRUE",
+    "option 2": "FALSE",
+    "option 3": "",
+    "option 4": "",
+    "answer": "option 1",
+    "Explain": "This is a right statement"
+  },
+  {
+    "ID": 5,
+    "type": 4,
+    "Question": "What is the physical aspect of the computer that can be seen",
+    "option 1": "Object",
+    "option 2": "Class",
+    "option 3": "Constructor",
+    "option 4": "Hardware",
+    "answer": "option 4",
+    "Explain": "Really?"
+  },
+  {
+    "ID": 6,
+    "type": 1,
+    "Question": "Which Picture below is a switch",
+    "option 1": "https://www.clipartmax.com/png/middle/15-150431_network-switch-symbol-images-pictures-simbolo-switch-cisco.png",
+    "option 2": "https://w7.pngwing.com/pngs/420/863/png-transparent-router-cisco-systems-open-shortest-path-first-border-gateway-protocol-computer-icons-others-computer-network-logo-network-switch.png",
+    "option 3": "https://banner2.cleanpng.com/20180422/uoe/kisspng-kindle-fire-cisco-systems-vpn-client-cisco-anyconn-client-5adc741dd088b0.9587066815243970858542.jpg",
+    "option 4": "https://img.favpng.com/0/7/2/voip-phone-cisco-ip-phone-7811-voice-over-ip-telephone-cisco-systems-png-favpng-9xTFJWPmM4wRaAumcC7kx7ScG.jpg",
+    "answer": "option1",
+    "Explain": "B is a router, c is the logo for Cisco Anyconnect, D is a VOIP phone"
+  },
+  {
+    "ID": 7,
+    "type": 2,
+    "Question": "One byte has___bits",
+    "option 1": "",
+    "option 2": "",
+    "option 3": "",
+    "option 4": "",
+    "answer": 8,
+    "Explain": "One byte has 8 bits"
+  },
+  {
+    "ID": 8,
+    "type": 2,
+    "Question": "the answer of -24%5 in java is?",
+    "option 1": "",
+    "option 2": "",
+    "option 3": "",
+    "option 4": "",
+    "answer": -4,
+    "Explain": "-24 % 5 means the remaining of the fraction"
+  },
+  {
+    "ID": 9,
+    "type": 4,
+    "Question": "The following code displays ___________.<br>\ndouble temperature = 50; <br>\n<br>\nif (temperature >= 100)<br>\nSystem.out.println(\"too hot\");<br>\nelse if (temperature <= 40)<br>\nSystem.out.println(\"too cold\");<br>\nelse<br>\nSystem.out.println(\"just right\");<br>",
+    "option 1": "too cold",
+    "option 2": "just right",
+    "option 3": "too hot",
+    "option 4": "Compiler error",
+    "answer": "option1",
+    "Explain": "Basic if condition."
+  },
+  {
+    "ID": 10,
+    "type": 2,
+    "Question": "the \"less than or equal to\" comparison operator in Java is",
+    "option 1": "",
+    "option 2": "",
+    "option 3": "",
+    "option 4": "",
+    "answer": "<=",
+    "Explain": "Basic Java operator<br> <= means no more than"
+  },
+  {
+    "ID": 11,
+    "type": 5,
+    "Question": "What is the return type of the hashCode() method in the Object class?",
+    "option 1": "int",
+    "option 2": "Object",
+    "option 3": "boolean",
+    "option 4": "void",
+    "answer": "option1",
+    "Explain": "In Java, the return type of hashCode() method is an integer, as it returns a hash code value for the object."
+  },
+  {
+    "ID": 12,
+    "type": 3,
+    "Question": "The modulus operator (%) in Java can be used only with variables of integer type.",
+    "option 1": "TRUE",
+    "option 2": "FALSE",
+    "option 3": "",
+    "option 4": "",
+    "answer": "option2",
+    "Explain": "The modulus operator (%) may be used with floating-point as well as integer types. It returns the remainder of a division operation, e.g., 10 % 6 will return 4."
+  },
+  {
+    "ID": 13,
+    "type": 3,
+    "Question": "Java is a Object-oriented programming language",
+    "option 1": "TRUE",
+    "option 2": "FALSE",
+    "option 3": "",
+    "option 4": "",
+    "answer": "option1",
+    "Explain": "This is a right statement"
+  },
+  {
+    "ID": 14,
+    "type": 4,
+    "Question": "Inside which HTML element do we put the JavaScript?",
+    "option 1": "<script>",
+    "option 2": "<style>",
+    "option 3": "<meta>",
+    "option 4": "<head>",
+    "answer": "option1",
+    "Explain": "We put that in <Script>"
+  },
+  {
+    "ID": 15,
+    "type": 5,
+    "Question": "Choose the correct JavaScript syntax to change the content of the following HTML code.",
+    "option 1": "document.getElement (“example\").innerHTML = \"I am a example\";",
+    "option 2": "document.getElementById (“example\").innerHTML = I am a example;",
+    "option 3": "document.getId (“example\") = \"I am a example\";",
+    "option 4": "document.getElementById (“example\").innerHTML = \"I am a example\";",
+    "answer": "option4",
+    "Explain": "The correct syntax to access the element is document.getElementById(\"example\"). Here we want to access the content written under that id, so we used .innerHTML to specify that and finally we replaced the content with whatever is written inside the quotes."
+  },
+  {
+    "ID": 16,
+    "type": 3,
+    "Question": "For the expression (y >= z && a == b) to be true, at least one of (y >= z) and (a == b) must be true.",
+    "option 1": "TRUE",
+    "option 2": "FALSE",
+    "option 3": "",
+    "option 4": "",
+    "answer": "option2",
+    "Explain": "For the result of a \"&&\"(aka and) operation to be true, both operands must be true."
+  },
+  {
+    "ID": 17,
+    "type": 5,
+    "Question": "The only reason this app exist is because we are taking CUS ____",
+    "option 1": 1156,
+    "option 2": 1172,
+    "option 3": 1169,
+    "option 4": 1170,
+    "answer": "option2",
+    "Explain": "We are taking cus 1172….."
+  },
+  {
+    "ID": 18,
+    "type": 1,
+    "Question": "which person is our instructor?",
+    "option 1": "https://www.stjohns.edu/sites/default/files/styles/unmodified/public/faculty/photo/MacKellar-1.JPG?",
+    "option 2": "https://www.stjohns.edu/sites/default/files/styles/unmodified/public/faculty/photo/bukhari_10875-1.jpeg?itok=iCEkdLA8",
+    "option 3": "https://www.stjohns.edu/sites/default/files/styles/unmodified/public/faculty/photo/Christoforos%20Christoforou-1.JPG",
+    "option 4": "https://www.stjohns.edu/sites/default/files/styles/640w/public/2019-06/190515_vip_74_960x640_0.jpg",
+    "answer": "option3",
+    "Explain": "If you get this wrong, I doubt  you watched the first recorded lecture of module 2"
+  },
+  {
+    "ID": 19,
+    "type": 5,
+    "Question": "what does css stands for",
+    "option 1": "Cascading Style Sheet",
+    "option 2": "Casual styling sheet",
+    "option 3": "Canada Styiling sheet",
+    "option 4": "Comprehensive styling sheet",
+    "answer": "option1",
+    "Explain": "Css stands for cascading styling sheet"
+  },
+  {
+    "ID": 20,
+    "type": 3,
+    "Question": "The == operator can be used to compare two String objects. The result is always true if the two strings are identical.",
+    "option 1": "TRUE",
+    "option 2": "FALSE",
+    "option 3": "",
+    "option 4": "",
+    "answer": "option2",
+    "Explain": "String objects must be compared using the \"equals()\" method of one of the objects"
   }
+]
 }
