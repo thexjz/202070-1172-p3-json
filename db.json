@@ -1,8 +1,9 @@
 {
   "Quiz1":[
+  [
   {
     "id": "1",
-    "type": 5,
+    "type": "5",
     "Question": "what represents an entity in the real world that can be distinctly identified.",
     "option 1": "Object",
     "option 2": "Class",
@@ -12,8 +13,8 @@
     "Explain": "An Object represents an entity in the real world that can be distinctly identified."
   },
   {
-    "id": 2,
-    "type": 4,
+    "id": "2",
+    "type": "4",
     "Question": "what is a construct that defines objects of the same type.",
     "option 1": "Object",
     "option 2": "Class",
@@ -23,8 +24,8 @@
     "Explain": "A Class is a construct that defines objects of the same type."
   },
   {
-    "id": 3,
-    "type": 3,
+    "id": "3",
+    "type": "3",
     "Question": "When Creating an object, what will be invoked?",
     "option 1": "Object",
     "option 2": "Class",
@@ -34,8 +35,8 @@
     "Explain": "Really?"
   },
   {
-    "id": 4,
-    "type": 3,
+    "id": "4",
+    "type": "3",
     "Question": "Java assigns a default value to a date member of a class if the data is not initialized",
     "option 1": "TRUE",
     "option 2": "FALSE",
@@ -45,8 +46,8 @@
     "Explain": "This is a right statement"
   },
   {
-    "id": 5,
-    "type": 4,
+    "id": "5",
+    "type": "4",
     "Question": "What is the physical aspect of the computer that can be seen",
     "option 1": "Object",
     "option 2": "Class",
@@ -56,8 +57,8 @@
     "Explain": "Really?"
   },
   {
-    "id": 6,
-    "type": 1,
+    "id": "6",
+    "type": "1",
     "Question": "Which Picture below is a switch",
     "option 1": "https://www.clipartmax.com/png/middle/15-150431_network-switch-symbol-images-pictures-simbolo-switch-cisco.png",
     "option 2": "https://w7.pngwing.com/pngs/420/863/png-transparent-router-cisco-systems-open-shortest-path-first-border-gateway-protocol-computer-icons-others-computer-network-logo-network-switch.png",
@@ -67,30 +68,30 @@
     "Explain": "B is a router, c is the logo for Cisco Anyconnect, D is a VOIP phone"
   },
   {
-    "id": 7,
-    "type": 2,
+    "id": "7",
+    "type": "2",
     "Question": "One byte has___bits",
     "option 1": "",
     "option 2": "",
     "option 3": "",
     "option 4": "",
-    "answer": 8,
+    "answer": "8",
     "Explain": "One byte has 8 bits"
   },
   {
-    "id": 8,
-    "type": 2,
+    "id": "8",
+    "type": "2",
     "Question": "the answer of -24%5 in java is?",
     "option 1": "",
     "option 2": "",
     "option 3": "",
     "option 4": "",
-    "answer": -4,
+    "answer": "-4",
     "Explain": "-24 % 5 means the remaining of the fraction"
   },
   {
-    "id": 9,
-    "type": 4,
+    "id": "9",
+    "type": "4",
     "Question": "The following code displays ___________.<br>\ndouble temperature = 50; <br>\n<br>\nif (temperature >= 100)<br>\nSystem.out.println(\"too hot\");<br>\nelse if (temperature <= 40)<br>\nSystem.out.println(\"too cold\");<br>\nelse<br>\nSystem.out.println(\"just right\");<br>",
     "option 1": "too cold",
     "option 2": "just right",
@@ -100,8 +101,8 @@
     "Explain": "Basic if condition."
   },
   {
-    "id": 10,
-    "type": 2,
+    "id": "10",
+    "type": "2",
     "Question": "the \"less than or equal to\" comparison operator in Java is",
     "option 1": "",
     "option 2": "",
@@ -111,8 +112,8 @@
     "Explain": "Basic Java operator<br> <= means no more than"
   },
   {
-    "id": 11,
-    "type": 5,
+    "id": "11",
+    "type": "5",
     "Question": "What is the return type of the hashCode() method in the Object class?",
     "option 1": "int",
     "option 2": "Object",
@@ -122,8 +123,8 @@
     "Explain": "In Java, the return type of hashCode() method is an integer, as it returns a hash code value for the object."
   },
   {
-    "id": 12,
-    "type": 3,
+    "id": "12",
+    "type": "3",
     "Question": "The modulus operator (%) in Java can be used only with variables of integer type.",
     "option 1": "TRUE",
     "option 2": "FALSE",
@@ -133,8 +134,8 @@
     "Explain": "The modulus operator (%) may be used with floating-point as well as integer types. It returns the remainder of a division operation, e.g., 10 % 6 will return 4."
   },
   {
-    "id": 13,
-    "type": 3,
+    "id": "13",
+    "type": "3",
     "Question": "Java is a Object-oriented programming language",
     "option 1": "TRUE",
     "option 2": "FALSE",
@@ -144,8 +145,8 @@
     "Explain": "This is a right statement"
   },
   {
-    "id": 14,
-    "type": 4,
+    "id": "14",
+    "type": "4",
     "Question": "Inside which HTML element do we put the JavaScript?",
     "option 1": "<script>",
     "option 2": "<style>",
@@ -155,8 +156,8 @@
     "Explain": "We put that in <Script>"
   },
   {
-    "id": 15,
-    "type": 5,
+    "id": "15",
+    "type": "5",
     "Question": "Choose the correct JavaScript syntax to change the content of the following HTML code.",
     "option 1": "document.getElement (“example\").innerHTML = \"I am a example\";",
     "option 2": "document.getElementById (“example\").innerHTML = I am a example;",
@@ -166,8 +167,8 @@
     "Explain": "The correct syntax to access the element is document.getElementById(\"example\"). Here we want to access the content written under that id, so we used .innerHTML to specify that and finally we replaced the content with whatever is written inside the quotes."
   },
   {
-    "id": 16,
-    "type": 3,
+    "id": "16",
+    "type": "3",
     "Question": "For the expression (y >= z && a == b) to be true, at least one of (y >= z) and (a == b) must be true.",
     "option 1": "TRUE",
     "option 2": "FALSE",
@@ -177,19 +178,19 @@
     "Explain": "For the result of a \"&&\"(aka and) operation to be true, both operands must be true."
   },
   {
-    "id": 17,
-    "type": 5,
+    "id": "17",
+    "type": "5",
     "Question": "The only reason this app exist is because we are taking CUS ____",
-    "option 1": 1156,
-    "option 2": 1172,
-    "option 3": 1169,
-    "option 4": 1170,
+    "option 1": "1156",
+    "option 2": "1172",
+    "option 3": "1169",
+    "option 4": "1170",
     "answer": "option2",
     "Explain": "We are taking cus 1172….."
   },
   {
-    "id": 18,
-    "type": 1,
+    "id": "18",
+    "type": "1",
     "Question": "which person is our instructor?",
     "option 1": "https://www.stjohns.edu/sites/default/files/styles/unmodified/public/faculty/photo/MacKellar-1.JPG?",
     "option 2": "https://www.stjohns.edu/sites/default/files/styles/unmodified/public/faculty/photo/bukhari_10875-1.jpeg?itok=iCEkdLA8",
@@ -199,8 +200,8 @@
     "Explain": "If you get this wrong, I doubt  you watched the first recorded lecture of module 2"
   },
   {
-    "id": 19,
-    "type": 5,
+    "id": "19",
+    "type": "5",
     "Question": "what does css stands for",
     "option 1": "Cascading Style Sheet",
     "option 2": "Casual styling sheet",
@@ -210,8 +211,8 @@
     "Explain": "Css stands for cascading styling sheet"
   },
   {
-    "id": 20,
-    "type": 3,
+    "id": "20",
+    "type": "3",
     "Question": "The == operator can be used to compare two String objects. The result is always true if the two strings are identical.",
     "option 1": "TRUE",
     "option 2": "FALSE",
@@ -220,5 +221,6 @@
     "answer": "option2",
     "Explain": "String objects must be compared using the \"equals()\" method of one of the objects"
   }
+]
 ]
 }
