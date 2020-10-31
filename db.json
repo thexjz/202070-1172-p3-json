@@ -1,7 +1,7 @@
 {
   "Quiz1":[
   {
-    "id": "1",
+    "id": 1,
     "type": 5,
     "Question": "what represents an entity in the real world that can be distinctly identified.",
     "option 1": "Object",
