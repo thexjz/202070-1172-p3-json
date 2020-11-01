@@ -24,7 +24,7 @@
   },
   {
     "id": 3,
-    "type": 3,
+    "type": 4,
     "Question": "When Creating an object, what will be invoked?",
     "option1": "Object",
     "option2": "Class",
